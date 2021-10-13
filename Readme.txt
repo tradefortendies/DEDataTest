@@ -1,4 +1,4 @@
-3. How to run
+How to run
 	1. Install Matlab runtime:
 	https://se.mathworks.com/help/compiler/install-the-matlab-runtime.html
 	2. run MyAppInstaller_web.exe OR run DeDataTest/for_redistribution_files_only/DeDataTest.exe
